@@ -1,0 +1,24 @@
+{
+  "name": "ujian-online-wa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "js-base64": "^2.5.2",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.4",
+    "pg": "^8.2.1",
+    "pg-hstore": "^2.3.3",
+    "qrcode-terminal": "^0.12.0",
+    "sequelize": "^5.21.13",
+    "whatsapp-web.js": "^1.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
