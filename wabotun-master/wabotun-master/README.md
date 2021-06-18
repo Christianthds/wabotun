@@ -20,7 +20,7 @@ to run this application follow this step :
 3. run this command below
 
 ```sh
-$ git clone https://github.com/toriqahmads/wabotun.git
+$ git clone https://github.com/ Christianthds/wabotun/tree/main/wabotun-master/wabotun-master.git
 $ cd wabotun
 $ npm install
 $ sequelize db:create
